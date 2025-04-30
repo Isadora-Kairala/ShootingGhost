@@ -42,5 +42,6 @@ O jogo foi integrado ao **Firebase**, uma plataforma do Google utilizada para o 
 
 - Isadora Réquer  
 - Curso de Ciência da Computação  
-- Disciplina: Introdução à Computação 
+- Disciplina: Introdução à Computação
+- Uni-FACEF
 
